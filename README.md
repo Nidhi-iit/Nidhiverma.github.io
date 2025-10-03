@@ -1,25 +1,27 @@
 # Nidhiverma.github.io
 # Nidhi Verma – Environmental Research & GHG Accounting Portfolio
 
-I am an environmental researcher specializing in **air quality modeling** and **GHG accounting**. I combine data analysis, modeling, and reporting skills to provide actionable insights for sustainability and decarbonization projects.
+I am PhD in Atmospheric Chemistry with over 10 years of experience in air quality research, source apportionment, and modeling. I have experience in emission inventory, source apportionment, AERMOD and satellite-based data analysis. I am also CEO of a clean-tech startup addressing urban air pollution and currently engaged in a postdoctoral project on sustainable dust mitigation. I am passionate about air quality research, community-centered air quality solutions, and emerging carbon market frameworks. I am upskilling in carbon accounting and GHG protocol methodologies. I have published 12 peer-reviewed papers, 2 book chapters, 360+ citations (h-index 9).
 
 ---
 
 ## Skills
 
-- **Air Quality Modeling:** AERMOD, CALPUFF  
-- **GHG Accounting:** Scope 1–3 emissions, ISO 14064, GHG Protocol  
-- **Data Analysis:** R, Python, Excel  
-- **Visualization & Dashboards:** Power BI, Tableau  
+- **Air Quality Modeling:** AERMOD  
+- **GHG Accounting:**  
+- **Data Analysis:** Excel, R, SPSS  
+- **Visualization & Dashboards:** 
 - **Reporting & Documentation:** Research papers, project reports  
 
 ---
 
 ## Portfolio Projects
 
-- **EVRDC Prototype Testing** – Air quality reduction analysis in EV road dust collector  
-- **Urban Air Pollution Assessment** – PM2.5 dispersion modeling in Chennai, India  
-- **GHG Inventory Templates** – Excel and R scripts for Scope 1–3 emissions  
+- **Research Papers** – Highlights of my major research work  
+- **Urban Air Pollution Assessment** – Dispersion Modelling for Delhi, India
+- **Emission Inventory**- A case Study of Metropolitan city  
+- **GHG Inventory Templates** – Excel and R scripts for Scope 1–3 emissions
+- **Remote Sensiing**-Global Warming and Need to GHG Accounting 
 - **Air Quality & GHG Dashboards** – Interactive visualizations showing emission trends and mitigation scenarios  
 
 *(More projects will be added as I complete my ongoing GHG accounting and air quality course.)*
@@ -28,9 +30,9 @@ I am an environmental researcher specializing in **air quality modeling** and **
 
 ## Contact
 
-- **Email:** nidhi.verma@email.com  
-- **LinkedIn:** [linkedin.com/in/nidhi-verma](https://www.linkedin.com/in/nidhi-verma)  
-- **Portfolio Website:** [yourusername.github.io](https://yourusername.github.io)
+- **Email:** deinidhiverma@gmail.com  
+- **LinkedIn:** (https://www.linkedin.com/in/dr-nidhi-verma-2143b7ab)
+- **Portfolio Website:** (https://github.com/Nidhi-iit/Nidhiverma.github.io)
 
 ---
 
